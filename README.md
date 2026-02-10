@@ -1,6 +1,8 @@
 # ELMAX UNIVERSITY
 
-A modern, responsive university website built with [Technology Stack]. This project serves as the official digital platform for [University Name], providing information to students, faculty, and visitors.
+A modern, responsiveremote_theme: pages-themes/leap-day@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one university website built with [Technology Stack]. This project serves as the official digital platform for [University Name], providing information to students, faculty, and visitors.
 
 ## 🌐 Live Demo
 [Click here to view the live website](https://your-university-website-link.com)
