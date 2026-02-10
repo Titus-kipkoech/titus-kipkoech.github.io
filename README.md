@@ -1,4 +1,4 @@
-# University Website
+# ELMAX UNIVERSITY
 
 A modern, responsive university website built with [Technology Stack]. This project serves as the official digital platform for [University Name], providing information to students, faculty, and visitors.
 
